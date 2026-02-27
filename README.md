@@ -58,6 +58,7 @@ From transaction monitoring to customer intelligence — everything is available
 ## 📊 Dashboard Preview
 
 ### 🔹 Transaction Analytics View
+![Transaction Analytics Dashboard](./Page%201.jpg)
 
 - Quarterly Revenue & Transaction Trends  
 - Card Category Performance  
@@ -66,6 +67,7 @@ From transaction monitoring to customer intelligence — everything is available
 - Revenue by Job & Education  
 
 ### 🔹 Customer Intelligence View
+![Customer Intelligence Dashboard](./Page%202.jpg)
 
 - Income & Age Group Analysis  
 - Geographic Revenue Distribution  
