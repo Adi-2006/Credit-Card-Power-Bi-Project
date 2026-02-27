@@ -10,7 +10,7 @@
 
 ## 🚀 Live Dashboard Preview
 
-🔗 **Live Demo:** https://your-live-dashboard-link.com  
+🔗 **Live Demo:** [Click Here !](https://your-live-dashboard-link.com)
 🔗 **GitHub Repository:** https://github.com/yourusername/credit-card-dashboard  
 
 *(Replace links with your Power BI Service / GitHub link)*
@@ -253,9 +253,8 @@ Based on dashboard analytics report visuals.
 🎓 BCA — Patliputra University  
 📍 Patna, India  
 
-🔗 LinkedIn: https://linkedin.com/in/your-linkedin  
-🔗 GitHub: https://github.com/yourusername  
-📧 Email: your-email@example.com  
+🔗 LinkedIn: [Let's Connect ](https://linkedin.com/in/your-linkedin)  
+📧 Email: [Reach Out For Dataset !](dwivediaditya2322006@gmail.com) 
 
 ---
 
