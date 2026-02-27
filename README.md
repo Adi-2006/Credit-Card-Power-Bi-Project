@@ -11,7 +11,7 @@
 ## 🚀 Live Dashboard Preview
 
 🔗 **Live Demo:** 
-👉 [Click Here to Open Interactive Dashboard](https://app.powerbi.com/viewr=eyJrIjoiOTFhNWM1ODQtMTk5NS00ZTYwLTk2YjUtNjdhYzc1NDEzNDFhIiwidCI6ImQwZTU5ZDBlLWE3ZTYtNGZmOS1hZTA5LWUzZmY0ZDY0MWM1YyJ9)
+👉 [Click Here to Open Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTFhNWM1ODQtMTk5NS00ZTYwLTk2YjUtNjdhYzc1NDEzNDFhIiwidCI6ImQwZTU5ZDBlLWE3ZTYtNGZmOS1hZTA5LWUzZmY0ZDY0MWM1YyJ9)
 
 💻 **GitHub Repository:** 
 👉 [View Dashboard File (.pbix)](https://github.com/yourusername/credit-card-dashboard)
