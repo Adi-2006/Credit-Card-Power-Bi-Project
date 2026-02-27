@@ -10,10 +10,14 @@
 
 ## 🚀 Live Dashboard Preview
 
-🔗 **Live Demo:** [Click Here !](https://your-live-dashboard-link.com)
-🔗 **GitHub Repository:** https://github.com/yourusername/credit-card-dashboard  
+🔗 **Live Demo:** 
+👉 [Click Here to Open Interactive Dashboard]([https://your-live-dashboard-link.com](https://app.powerbi.com/view?r=eyJrIjoiOTFhNWM1ODQtMTk5NS00ZTYwLTk2YjUtNjdhYzc1NDEzNDFhIiwidCI6ImQwZTU5ZDBlLWE3ZTYtNGZmOS1hZTA5LWUzZmY0ZDY0MWM1YyJ9))
 
-*(Replace links with your Power BI Service / GitHub link)*
+💻 **GitHub Repository:** 
+👉 [View Dashboard File (.pbix)](https://github.com/yourusername/credit-card-dashboard)
+
+📩 Dataset access available on request 
+📧 Email: [Reach Out For Dataset !](dwivediaditya2322006@gmail.com) 
 
 ---
 
@@ -254,7 +258,6 @@ Based on dashboard analytics report visuals.
 📍 Patna, India  
 
 🔗 LinkedIn: [Let's Connect ](https://linkedin.com/in/your-linkedin)  
-📧 Email: [Reach Out For Dataset !](dwivediaditya2322006@gmail.com) 
 
 ---
 
